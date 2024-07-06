@@ -1,0 +1,1 @@
+let paral=document.createElement
